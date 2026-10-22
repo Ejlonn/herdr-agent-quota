@@ -1,5 +1,17 @@
 # herdr-agent-usage
 
+> **Preserved copy.** This repository preserves the last upstream revision
+> (`4d6e54b`, 2026-10-07) of `levi-qiao/herdr-agent-usage` (formerly
+> `levi-qiao/herdr-agent-quota`) by Levi Qiao, which is no longer available on
+> GitHub. It is kept under the original [MIT license](LICENSE) so
+> [herdr-supervisor](https://github.com/Ejlonn/herdr-supervisor) can keep
+> installing it. All credit for the plugin belongs to the original author; if
+> the upstream returns, prefer it.
+>
+> ```sh
+> herdr plugin install Ejlonn/herdr-agent-quota --yes
+> ```
+
 Model, context, and subscription quota in Herdr's Agent sidebar — grouped by
 Space, with brand icons that carry agent status.
 
